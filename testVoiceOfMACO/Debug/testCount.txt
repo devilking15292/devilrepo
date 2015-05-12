@@ -1,0 +1,23 @@
+test NO 39 version 0.028
+test NO 40 version 0.028 -- aahan
+test NO 41 version 0.028 -- aahan
+test NO 42 version 0.028 -- aahan
+test NO 43 version 0.028 -- aahan
+test NO 44 version 0.028 -- aahan
+test NO 45 version 0.029 -- aahan
+test NO 46 version 0.030 -- read textfile
+test NO 47 version 0.030 -- read textfile
+test NO 48 version 0.030 -- read textfile
+test NO 49 version 0.030 -- read textfile
+test NO 50 version 0.030 -- read textfile
+test NO 51 version 0.030 -- stop reading
+test NO 52 version 0.030 -- stop reading
+test NO 53 version 0.030 -- stop reading
+test NO 54 version 0.030 -- voice in seperate cmd window
+test NO 55 version 0.030 -- voice in seperate cmd window
+test NO 56 version 0.030 -- total check
+test NO 57 version 0.030 -- hai count not working
+test NO 58 version 0.030 -- total check
+test NO 59 version 0.030 -- my ascii image adjustment
+
+
